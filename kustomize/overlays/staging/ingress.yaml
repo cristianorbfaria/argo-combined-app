@@ -18,4 +18,4 @@ spec:
            name: argo-combined-app
            port:
              number: 80
-    host: staging.argo-combined-app.gitops.com.br
+    host: staging.argo-combined-app.noobcloud.com.br
